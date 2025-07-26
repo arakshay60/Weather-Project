@@ -47,8 +47,8 @@ Make sure your `.env` file is included in your `.gitignore`.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/weather-etl-airflow.git
-cd weather-etl-airflow
+git clone https://github.com/arakshay60/weather-project.git
+cd weather-project
 ```
 
 ### 2️⃣ Set up Environment Variable
